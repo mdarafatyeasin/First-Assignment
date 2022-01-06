@@ -5,7 +5,7 @@ body{
     color: orange;
 }
 .header-font{
-    font-size: 70px;
+    font-size: 60px;
 }
 .heading{
     display: flex;
@@ -22,8 +22,10 @@ half-width{
 }
 button{
     padding: 10px 30px;
-    background-color: rgb(159, 233, 255);
-    border-radius: 5px;
+    background-color: rgb(231, 61, 112);
+    border-radius: 10px;
+    font-size: 30px;
+    color: wheat;
 }
 .Mission{
     width: 400px;
@@ -106,4 +108,7 @@ p{
 .all-division{
     display: flex;
     justify-content: space-around;
+}
+.pragraph-font{
+    font-size: 20px;
 }
