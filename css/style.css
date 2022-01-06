@@ -70,6 +70,8 @@ half-width{
     color: orangered;
 }
 .all-aim{
+    margin-right: 5%;
+    margin-left: 5%;
     display: flex;
     justify-content: space-around;
 }
@@ -93,7 +95,7 @@ p{
     margin-top: 100px;
 }
 .dhaka{
-    width: 300px;
+    width: 200px;
     border: 1px;
     border: solid 1px gray;
     box-shadow: 4px 4px 12px gray;
