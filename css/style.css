@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+}
+.hilight-font{
+    color: orange;
+}
+.header-font{
+    font-size: 70px;
+}
+.heading{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+
+}
+half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 70%;
+    margin-left: 100px;
+}
+button{
+    padding: 10px 30px;
+    background-color: rgb(159, 233, 255);
+    border-radius: 5px;
+}
+.Mission{
+    width: 400px;
+    background-color: orchid;
+    border-radius: 20px;
+}
+.Mission img{
+    width: 200px;
+}
+.Vission{
+    width: 400px;
+    background-color: rgb(172, 241, 238);
+    border-radius: 20px;
+}
+.Vission img{
+    width: 200px;
+}
+.Goals{
+    width: 400px;
+    background-color: rgb(246, 255, 167);
+    border-radius: 20px;
+}
+.Goals img{
+    width: 200px;
+}
+.main{
+    text-align: center;
+}
+.title{
+    font-size: 60px;
+}
+.hilight{
+    color: orangered;
+}
+.all-aim{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    width: 100%;
+    padding: 50px;
+    background-color: rgb(22, 21, 73);
+    margin-top: 200px;
+    color: wheat;
+    text-align: center;
+}
+.about{
+    display: flex;
+    width: 80%;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+.about img{
+    width: 80%;
+}
+p{
+    font-family: 'Libre Baskerville', serif;
+}
