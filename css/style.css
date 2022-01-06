@@ -84,3 +84,26 @@ button{
 p{
     font-family: 'Libre Baskerville', serif;
 }
+.recent-visit-title{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+.dhaka{
+    width: 300px;
+    border: 1px;
+    border: solid 1px gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 10px;
+}
+.dhaka img{
+    width: 100%;
+    border-radius: 10px;
+}
+.text-info{
+    text-align: center;
+}
+.all-division{
+    display: flex;
+    justify-content: space-around;
+}
